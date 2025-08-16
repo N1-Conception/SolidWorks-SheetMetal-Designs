@@ -1,7 +1,7 @@
 # Part-drawing-02-SW
 
 
-# Sheet Metal Mounting Bracket (
+# Sheet Metal Mounting Bracket 
 
 This repository contains the CAD design of a **sheet metal mounting bracket** created in SolidWorks. 
  
@@ -56,7 +56,7 @@ MIT License — feel free to use and modify for personal or commercial projects.
 
 >Design Engineer
  
->✨ Creator & Owner of [N1 Conception](https://github.com/yourprofile) ✨  
+>✨ Creator & Owner of [N1 Conception]✨  
 
 
 
